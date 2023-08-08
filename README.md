@@ -20,10 +20,10 @@
 
 ---
 
-### About Me :
+### 💻: About Me :
 Hello my name is Nathan and I am currently studying at the University of Arlington Texas. 
-- 🌱 I’m currently learning Javascript,Css,and HTMl...
-- 📫 How to reach me @Nennechu1 on Instagram...
+- 🌱 I’m currently learning Javascript, Css, and HTML for frontend and backend for web application
+- 📫 How to reach me <a href="https://www.linkedin.com/in/nathan-chugito-uta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>...
 
 <!---
 Nennechu/Nennechu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
