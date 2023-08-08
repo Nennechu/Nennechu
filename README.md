@@ -23,7 +23,15 @@
 ### 💻: About Me :
 Hello, my name is Nathan and I am currently studying at the University of Arlington Texas. 
 - 🌱 I’m currently learning Javascript, CSS, and HTML for frontend and backend for web application
-- 📫 How to reach me <div id"badges><a href="https://www.linkedin.com/in/nathan-chugito-uta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></div>...
+- 📫 How to reach me <div id="badges"><a href="https://www.linkedin.com/in/nathan-chugito-uta/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/nennechu1/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a></div>
 
 <!---
 Nennechu/Nennechu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
