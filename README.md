@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="150"/>
 </div>
 Hello my name is Nathan and I am currently studying at the University of Arlington Texas. 
 - 🌱 I’m currently learning Javascript,Css,and HTMl...
