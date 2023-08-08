@@ -32,6 +32,7 @@ Hello, my name is Nathan and I am currently studying at the University of Arling
     <a href="https://www.instagram.com/nennechu1/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a></div>
+-🖥️ Portfolio (coming soon/constant updates)
 
 <!---
 Nennechu/Nennechu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
