@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=""C:\Users\nchug\Downloads\digiChannelHeart.gif"" width="150"/>
+  <img src="C:\Users\nchug\Downloads\digiChannelHeart.gif" width="150"/>
     <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/nathan-chugito/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
