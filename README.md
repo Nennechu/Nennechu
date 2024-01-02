@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoOXRpeGJlNWxhZGduNHhwZjNqeThhNmNnYTIzYnpvcDd3OXBmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TsmEjLQPcbQsVDG08z/giphy.gif" width="150"/>
     <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/nathan-chugito/">
+    <a href="https://www.linkedin.com/in/nathan-chugito">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
@@ -22,9 +22,9 @@
 
 ### 💻: About Me :
 Hello, my name is Nathan and I am currently studying at the University of Arlington Texas. 
-- 🌱 I’m currently learning Javascript, CSS, and HTML for frontend and backend for web application
+- 🌱 I’m currently learning Javascript, CSS, HTML, and React/React Native for frontend and backend for web application.
 - 🖥️ Portfolio (coming soon/constant updates)
-- 📫 How to reach me <div id="badges"><a href="https://www.linkedin.com/in/nathan-chugito-uta/">
+- 📫 How to reach me <div id="badges"><a href="https://www.linkedin.com/in/nathan-chugito">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="">
